@@ -1,0 +1,318 @@
+=== TOPIC 0 ===
+Top keywords: earnings, information, firms, analysts, disclosure, investors, accounting, forecasts, evidence, managers
+
+Representative Abstract 1 (probability: 1.000):
+Title: Strategies for data analytics projects in business performance forecasting: a field study
+Abstract: Data analytics is applied in various fields, including business performance forecasting, but companies struggle with its implementation. Following a cross-sectional field study approach, we make two contributions. First, we elaborate on the central role played by the head controller in generating tr...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Fundamental Analysis and Mean-Variance Optimal Portfolios
+Abstract: We integrate fundamental analysis with mean-variance portfolio optimization to form fully optimized fundamental portfolios. We find that fully optimized fundamental portfolios produce large out-of-sample factor alphas with high Sharpe ratios. They substantially outperform equal-weighted and value-we...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Private Information Acquisition via Freedom of Information Act Requests Made to the Securities and Exchange Commission
+Abstract: There is limited evidence about when, why, and which individuals incur costs to acquire nonpublic information about a firm, largely due to the difficulty of observing private information acquisition. To overcome this difficulty, we obtain data on Freedom of Information Act (FOIA) requests submitted ...
+
+
+=== TOPIC 1 ===
+Top keywords: audit, auditors, quality, auditor, audit quality, clients, client, accounting, partners, evidence
+
+Representative Abstract 1 (probability: 1.000):
+Title: Why did the Big Four get so large? Evidence from Australia
+Abstract: We use a long time-series from Australia to shed light on economic factors that led to audit market concentration and the Big N. We show that increases in the size of a small number of public companies was an important factor that led to large audit firms and market concentration. We also show that ...
+
+Representative Abstract 2 (probability: 1.000):
+Title: How do financial executives respond to the use of artificial intelligence in financial reporting and auditing?
+Abstract: Financial reporting quality can benefit from companies and auditors using artificial intelligence (AI) in complex and subjective financial reporting areas. However, benefits will only accrue if managers incorporate AI-based information into their financial reporting decisions, which the popular pres...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Heterogeneity in expertise in a credence goods setting: evidence from audit partners
+Abstract: We examine the heterogeneity of experts in a credence goods setting. In our analytical model, clients are uncertain about how much effort experts need to provide to solve their problem, which is either simple or difficult. Experts have varying degrees of expertise. Less qualified experts are equally...
+
+
+=== TOPIC 2 ===
+Top keywords: performance, employees, effort, managers, employee, task, experiment, team, effect, pay
+
+Representative Abstract 1 (probability: 1.000):
+Title: Reward Taxation, Reward Type, and Employee Effort
+Abstract: Performance-contingent cash and tangible rewards are commonly used to motivate employees, and the taxation of such rewards is unavoidable. We use two experiments to examine how the effect of reward taxation on employee effort varies by reward type. In Experiment 1, we find reward taxation decreases ...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Information, Incentives, and Attention: A Field Experiment on the Interaction of Management Controls
+Abstract: We study the profit effects and interplay of two core accounting practices in a field experiment in a large retail chain. In a 2 × 2 factorial design, we vary (1) whether store managers obtain decision-facilitating information on a profit metric and (2) whether they receive performance pay based on ...
+
+Representative Abstract 3 (probability: 1.000):
+Title: When and Why Do Supervisors’ Evaluations Overweight Subordinates’ Performance Outcomes? Evidence from a Team Setting in the Field
+Abstract: To better understand supervisors’ outcome bias, I use a regression discontinuity design that compares coaches’ performance assessments of professional football players involved in narrow wins and losses. I document that supervisors over-react to negative outcomes, sharply lowering performance rating...
+
+
+=== TOPIC 3 ===
+Top keywords: tax, avoidance, tax avoidance, firms, taxes, corporate, income, tax planning, planning, corporate tax
+
+Representative Abstract 1 (probability: 1.000):
+Title: The decreasing trend in U.S. cash effective tax rates: The role of growth in pre-tax income
+Abstract: We develop a linear corporate tax function where taxes paid are regressed on pre-tax income and an intercept. We show that if the intercept is positive, cash ETRs are a convex function of pre-tax income. We present large-sample evidence consistent with this ETR convexity. Thus, although firms may ha...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Effective Tax Planning
+Abstract: We use data envelopment analysis (DEA) to develop a measure of effective tax planning that is theoretically aligned with the Scholes-Wolfson paradigm and captures how efficiently firms maximize after-tax returns given their operating, investing, and financing decisions. We then (1) document that the...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Is Tax Transfer Pricing Harmonization a Panacea? Real Effects of Global Tax Transparency and Standards Consistency
+Abstract: This study investigates the impact of the harmonization of tax transfer pricing across jurisdictions on multinational companies’ reporting and tax authorities’ auditing strategies. Applying a game-theoretical approach, we assess how enhancing standards consistency and global tax transparency influen...
+
+
+=== TOPIC 4 ===
+Top keywords: compensation, ceo, performance, ceos, pay, executive, firms, incentives, boards, bonus
+
+Representative Abstract 1 (probability: 1.000):
+Title: Relative Performance Evaluation and Strategic Differentiation
+Abstract: I predict that relative performance evaluation (RPE) CEOs avoid strategic differentiation and increase the correlation of their firms' returns with that of their peers. This prediction follows from a moral hazard model integrating strategic differentiation decisions: Differentiation enhances perform...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Redesigning Executive Incentives: The Rising Role of Subjective Performance Measures
+Abstract: Despite the growing use of subjective performance incentives used in executive bonuses, empirical evidence on their effectiveness remains inconclusive. This study explores three aspects of subjective metrics in bonus plan design: their prevalence, the goals they target, and their impact on manageria...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Private Pre-Decision Information and the Pay-Performance Relation
+Abstract: We study how the precision of managers' private post-contract pre-decision information affects the pay-performance relation. Endogenizing the information environment, we find that firms may optimally tie executive pay closer to firm performance as agency problems become more pronounced. Specifically...
+
+
+=== TOPIC 5 ===
+Top keywords: fraud, political, sec, firms, misconduct, financial, enforcement, government, accounting, corporate
+
+Representative Abstract 1 (probability: 1.000):
+Title: A Tale of Two Enforcement Venues: Determinants and Consequences of the SEC's Choice of Enforcement Venue After the Dodd-Frank Act
+Abstract: The Dodd-Frank Act allows the SEC to choose either an administrative proceeding or a federal court as an enforcement venue for resolving violations of federal securities laws. I examine determinants and consequences of the SEC's choice of enforcement venue after the Dodd-Frank Act. Results show that...
+
+Representative Abstract 2 (probability: 1.000):
+Title: The Effect of Financial Regulation on Nonfinancial Violations
+Abstract: This paper examines the effect of financial regulation on nonfinancial violations. Using differences in compliance requirements with Sarbanes-Oxley Act of 2002 (SOX) Section 404, we find that adoption of Section 404 increased firms’ propensity for nonfinancial violations. This effect is stronger for...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Ending at the Wrong Time: The Financial Reporting Consequences of a Uniform Fiscal Year-End
+Abstract: There is an ongoing debate over uniformity versus flexibility in accounting regulation. This study examines the financial reporting consequences of a rigid accounting rule in China under which the fiscal year-end is uniform for all companies. Using extensive interviews together with large-sample arc...
+
+
+=== TOPIC 6 ===
+Top keywords: accounting, research, accountants, work, professional, paper, identity, accountability, study, accounting research
+
+Representative Abstract 1 (probability: 1.000):
+Title: The Road Less Traveled: A Nontraditional Path to Teaching and Scholarship
+Abstract: This paper discusses my experiences as a nontenure track faculty member who now serves as an Associate Dean. It is based on my Presidential Scholar Lecture at the 2024 American Accounting Association Annual Meeting. In 2012, the Pathways Commission outlined the need and a path for more practitioners...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Enabling First Nations High School Students Access to Accounting Education at University
+Abstract: Australian First Nations peoples are under-represented in university level accounting education and the profession. This study adopts the Reconciliation Framework to examine factors that encourage First Nations high school students to pursue accounting education at university. Findings from “yarning...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Accounting or Finance? The Role of Differential Career Beliefs on Undergraduate Students’ Choices of Major
+Abstract: This study examines the role of four differential career beliefs on students’ decisions to major in accounting or finance. Differential career beliefs were calculated as the belief about an accounting versus a finance career for the following four career beliefs: interesting work, job security, job ...
+
+
+=== TOPIC 7 ===
+Top keywords: loan, borrowers, lenders, debt, covenant, covenants, information, credit, lending, loans
+
+Representative Abstract 1 (probability: 1.000):
+Title: Strategic Alliances and Lending Relationships
+Abstract: We study how proprietary information flows in strategic alliances facilitate banks' information collection in private debt markets. We argue that lenders that have previously worked with a borrower's alliance partners have an information advantage and show that firms entering a strategic alliance re...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Private information and bank-loan pricing: The effect of upcoming corporate spinoffs
+Abstract: Corporate spinoffs are important events that are accompanied by valuation and credit-risk implications for the parent firm. Among other benefits, spinoffs can improve corporate focus and enhance valuation transparency. In the debt-contracting context, however, spinoffs can also be associated with ne...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Syndicated Lending Relationships, Information Asymmetry, and Market Making in the Secondary Loan Market
+Abstract: This paper investigates why commercial lenders make markets for the loans that they sell on the secondary market. Using loan-level data, I find that origination lenders with extensive borrower relationships and more reputational capital at stake are more likely to serve as market makers. Greater par...
+
+
+=== TOPIC 8 ===
+Top keywords: banks, bank, loan, loss, loan loss, loans, credit, lending, financial, losses
+
+Representative Abstract 1 (probability: 1.000):
+Title: Banks’ Motivations for Designating Securities as Held to Maturity
+Abstract: We provide evidence that banks classify fixed-rate debt investment securities as held to maturity (HTM) rather than as available for sale (AFS) when HTM classification provides preferred financial accounting and regulatory capital treatments, not because they have a distinct economically motivated i...
+
+Representative Abstract 2 (probability: 1.000):
+Title: The Effect of the Current Expected Credit Loss Approach on Banks’ Lending during Stress Periods: Evidence from the COVID-19 Recession
+Abstract: In the wake of the financial crisis, policymakers expressed the concern that the incurred loss model delays loan loss recognition to economic stress periods and thereby exacerbates banks’ lending contraction during these periods. Addressing this concern, the FASB issued Accounting Standards Update 2...
+
+Representative Abstract 3 (probability: 1.000):
+Title: ELPR: A New Measure of Capital Adequacy for Commercial Banks
+Abstract: We develop and evaluate an accounting-based Loan Portfolio Risk (LPR) variable that captures time-varying contagion effects in default risk for a portfolio of bank loans. Our results show that an Equity-to-LPR ratio (ELPR) is additive in predicting bank failure up to five years in advance, after con...
+
+
+=== TOPIC 9 ===
+Top keywords: control, management, management control, controls, sustainability, trust, systems, innovation, study, control systems
+
+Representative Abstract 1 (probability: 1.000):
+Title: Reducing Strategy Surrogation: The Effects of Performance Measurement System Flexibility and Environmental Dynamism
+Abstract: Prior research shows that individuals exhibit a propensity to surrogate performance measures for their underlying strategy, resulting in suboptimal strategic decisions. We investigate whether the incorporation of flexibility in contemporary performance measurement systems (PMSs) reduces surrogation ...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Influence of Control Precision and Prior Collaboration Experience on Trust and Cooperation in Inter-Organizational Relationships
+Abstract: We investigate whether prior collaboration experience affects a focal partner’s response to the precision of monitoring controls adopted by a new partner, with consequences for their goodwill trust in, and subsequent cooperation with, the new partner. We expect the partner to interpret their new par...
+
+Representative Abstract 3 (probability: 1.000):
+Title: The Effects of Control Systems on Cooperation under Environmental Risk
+Abstract: Prior research shows that formal controls such as explicit financial incentives and feedback about partner behavior (or equivalent mutual monitoring) help overcome relational risk in collaborative settings and increase cooperation. Environmental risk requires collaborators to infer cooperation from ...
+
+
+=== TOPIC 10 ===
+Top keywords: environmental, carbon, climate, disclosure, sustainability, firms, disclosures, climate change, investors, esg
+
+Representative Abstract 1 (probability: 1.000):
+Title: ESG Disclosure, Market Forces, and Investment Efficiency
+Abstract: This paper examines the impact of environmental, social, and governance (ESG) disclosure on firm investment. The analysis characterizes the optimal precision of ESG disclosure that channels investors’ tastes for ESG into firm investment. Although it is tempting to think that the optimal ESG disclosu...
+
+Representative Abstract 2 (probability: 1.000):
+Title: The Value Relevance of Corporate Investment in Carbon Abatement: The Influence of National Climate Policy
+Abstract: Although the literature on carbon accounting is growing, studies on the valuation impact of firms’ carbon abatement investment (CAI) are scarce, and the influence of country-specific climate policies is largely underexplored. Drawing on both the benefit and cost perspectives of the resource-based vi...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Does Litigation Risk Shape Environmental Disclosure Decisions? Evidence from Peers’ Environmental Disclosure Lawsuits
+Abstract: We examine how managers’ incentives to minimize litigation risk interact with the unique features of environmental information to shape disclosure decisions. We rely on peer firms’ lawsuits to generate variation in environmental disclosure litigation risk, consistent with prior research and anecdota...
+
+
+=== TOPIC 11 ===
+Top keywords: innovation, patent, rd, firms, patents, disclosure, information, disclosures, technology, investment
+
+Representative Abstract 1 (probability: 1.000):
+Title: Deterrent disclosure
+Abstract: We examine how product market competition affects the disclosure of innovation. Theory posits that product market competition can cause firms to increase their disclosure of innovation to deter product market competitors. Consistent with this reasoning, we find that patent applicants in more competi...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Do Innovative Firms Communicate More? Evidence from the Relation between Patenting and Management Guidance
+Abstract: Successful innovations could induce more disclosure if the information asymmetry between the firm and its investors about post-innovation outcomes leads investors to demand more information. However, such innovations also likely entail greater proprietary cost concerns, which deter disclosure. This ...
+
+Representative Abstract 3 (probability: 1.000):
+Title: The Impact of the Leahy-Smith America Invents Act on Firms’ R&D Disclosure
+Abstract: The Leahy-Smith America Invents Act of 2011 (AIA) fundamentally changed the U.S. public patent system. This study examines whether and how the enactment of the AIA affects innovation-intensive firms’ narrative R&D disclosure. Adopting a difference-in-difference design, we find that the enactment of ...
+
+
+=== TOPIC 12 ===
+Top keywords: credit, rating, ratings, credit rating, credit ratings, agencies, bond, rating agencies, risk, information
+
+Representative Abstract 1 (probability: 1.000):
+Title: Information imprecision
+Abstract: This study develops and applies a model-implied measure of information imprecision. We define information imprecision as the degree of noise in investors' prior beliefs about the firm's asset value based on the information set that is currently available. We present a model of credit default swap (C...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Do Credit Ratings Reflect Private Information about SEC Investigations?
+Abstract: Despite private access to managers, issuer-paid credit rating agencies (CRAs) are often criticized for failing to promptly reflect material negative private information in their ratings and being ineffective corporate watchdogs. We utilize a novel dataset of private SEC investigations to examine the...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Do Debt Investors Adjust Financial Statement Ratios When Financial Statements Fail to Reflect Economic Substance? Evidence from Cash Flow Hedges*†
+Abstract: Cash flow hedge derivatives are an example of an economic transaction that is not fully portrayed in the financial statements in two key ways. First, while changes in the fair value of the derivative are recorded at each reporting date, changes in the value of the underlying purchase or sale commitm...
+
+
+=== TOPIC 13 ===
+Top keywords: cost, stickiness, cost stickiness, cost structure, structure, cost behavior, uncertainty, suppliers, firms, costs
+
+Representative Abstract 1 (probability: 1.000):
+Title: The Effect of Strategy on the Asymmetric Cost Behavior of SG&A Expenses
+Abstract: Asymmetric cost behavior has been attributed to deliberate managerial resource commitment decisions and a firm’s strategic choices is a significant determinant of these decisions. This study investigates the effect of strategy on the intensity and direction of the asymmetric cost behavior of selling...
+
+Representative Abstract 2 (probability: 1.000):
+Title: The Effect of Cost Stickiness on Peer-Based Valuation Models
+Abstract: We investigate how asymmetric cost behavior (also termed cost stickiness) affects peer-based valuation models. Using a sample of U.S. firms for the period 2000–2016, we provide evidence that the higher the degree of a target firm`s level of cost stickiness vis-à-vis its peer group, the greater is th...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Flexible or rigid? Evidence on managerial ability and cost structure
+Abstract: This study investigates the association between managerial ability and cost rigidity. Cost rigidity refers to the relative proportion of fixed and variable costs. We expect that high-ability managers will assess the potential upside congestion and downside default risks and choose an appropriate lev...
+
+
+=== TOPIC 14 ===
+Top keywords: management, risk, risk management, control, management control, organizational, systems, culture, organisational, practices
+
+Representative Abstract 1 (probability: 1.000):
+Title: Understanding the Ecosystem of Enterprise Risk Governance
+Abstract: Approaches to risk governance are not homogeneous across organizations. Some organizations invest heavily in building formal and strategically focused enterprise-wide risk governance processes whereas others exhibit reduced formality and focus, allowing risk governance to be less structured. We argu...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Enterprise system implementation and cash flow volatility
+Abstract: This study investigates the financial and operational implications of enterprise systems (ESs) in corporate risk management. Using matched difference-in-differences analyses based on ES implementation events, we document a significant reduction in the volatility of operating cash flows following ES ...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Business Partnering in Risk Management: A Resilience Perspective on Management Accountants' Responses to a Role Change*
+Abstract: This study uses a resilience perspective to examine the opportunities and challenges that management accountants may experience when they are given a role as a business partner in risk management. Drawing on insights from an in-depth case study in a large European bank, our study sheds light on mana...
+
+
+=== TOPIC 15 ===
+Top keywords: diversity, gender, gender diversity, board, firms, female, directors, representation, boards, racial
+
+Representative Abstract 1 (probability: 1.000):
+Title: Attracting Female Directors in the United States: The Roles of Boards, Executives, and Other Stakeholders
+Abstract: Previous research related to board gender diversity typically focuses on international settings outside of the U.S. In this study, we examine the influence of boards, executives, and other stakeholders in appointing a female director candidate to a U.S. board, which is a voluntary regime dominated b...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Board Gender Diversity and Investment Efficiency: Global Evidence from 83 Country-Level Interventions
+Abstract: We investigate the effect of board gender diversity (BGD) on investment outcomes. We identify variation in BGD by compiling, for the first time, a global catalog of 83 BGD interventions implemented in 59 countries between 1999 and 2021. Using a staggered difference-in-differences research design, we...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Does Board Demographic Diversity Enhance Cognitive Diversity and Monitoring?
+Abstract: We examine whether board demographic diversity enhances cognitive diversity (measured as director dissent in the boardroom) and monitoring. At the director level, we find that individual directors who are dissimilar relative to other board members in terms of tenure and experience are more likely to...
+
+
+=== TOPIC 16 ===
+Top keywords: csr, social responsibility, responsibility, corporate social, csr reporting, csr performance, social, responsibility csr, corporate, reporting
+
+Representative Abstract 1 (probability: 1.000):
+Title: Abnormal CSR and Financial Performance
+Abstract: This study develops a corporate social responsibility (CSR) measure for abnormal CSR. Based on a microeconomic framework, we argue and show that firm-level variables determine a firm-specific, normal (expected) level of CSR performance, where the marginal costs of CSR equal its marginal benefits. An...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Doing Safe by Doing Good: Non-Financial Reporting and the Risk Effects of Corporate Social Responsibility
+Abstract: We compare the effects of corporate social responsibility (CSR) on firms' equity risk under two different (non-)financial reporting regimes: the risk-based U.S. and the content-based EU system. We observe a strongly negative CSR-risk relation in the EU, but a much weaker general impact in the U.S. I...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Nonfinancial Corporate Social Responsibility Reporting and Firm Value: International Evidence on the Role of Financial Analysts
+Abstract: Using a large international sample of 24,293 observations from 3,991 unique firms in 56 countries, we examine the role of financial analysts in the relationship between voluntary corporate social responsibility (CSR) reporting and firm value. We find that after controlling for firms’ CSR performance...
+
+
+=== TOPIC 17 ===
+Top keywords: insider, insider trading, trading, insiders, executives, directors, trading profits, profits, enforcement, opportunistic
+
+Representative Abstract 1 (probability: 1.000):
+Title: The Deterrent Effect of Insider Trading Enforcement Actions
+Abstract: We analyze whether exposure to an SEC insider trading enforcement action affects how insiders trade. We find that following an insider trading enforcement action at one firm, exposed insiders earn significantly lower abnormal profits from their trades at other firms compared to non-exposed insiders....
+
+Representative Abstract 2 (probability: 1.000):
+Title: Say on Pay Laws and Insider Trading
+Abstract: We examine whether mandatory adoption of say on pay increases executives’ incentives to engage in insider trading to compensate for the negative impact of say on pay on the value of their explicit compensation packages. Our empirical design exploits the staggered adoption of say on pay laws across 1...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Shadow trading
+Abstract: We investigate whether corporate insiders attempt to circumvent insider trading restrictions by using their private information to facilitate trading in economically linked firms, a phenomenon we call "shadow trading." Using measures of informed trading to proxy for shadow trading, we find increased...
+
+
+=== TOPIC 18 ===
+Top keywords: esg, rating, ratings, esg ratings, funds, disagreement, esg rating, proposals, initiatives, environmental social
+
+Representative Abstract 1 (probability: 1.000):
+Title: Global versus Local ESG Ratings: Evidence from China
+Abstract: We compare the ESG ratings of MSCI, a global rater, with those of SINO, a local Chinese rater, to evaluate their effectiveness in capturing ESG risks within the Chinese context. Using ESG issues revealed in negative incidents as a proxy for ESG risk, we find that the ratings from the two raters ofte...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Material ESG Alpha: A Fundamentals-Based Perspective
+Abstract: Using SASB’s materiality framework, prior research finds alpha for the portfolio of firms with improving ratings on material ESG issues. We replicate this finding and provide a fundamentals-based perspective on why the materiality portfolio outperforms. Our basic premise is that changes in material ...
+
+Representative Abstract 3 (probability: 1.000):
+Title: How Integrated Thinking Can Be Detected in Management Disclosures in Annual Reports: Insights from a Large-Scale Text-Analysis Approach
+Abstract: Integrated Thinking has been promoted as a way of revolutionizing decision-making to create sustainable value. Our study shows how disclosures made by managers in annual reports can reveal aspects of Integrated Thinking within organizations. We develop a new dictionary-based measure of Integrated Th...
+
+
+=== TOPIC 19 ===
+Top keywords: nonprofit, organizations, social, contributions, board, financial, donations, reporting, nonprofit organizations, social media
+
+Representative Abstract 1 (probability: 1.000):
+Title: The Effect of Financial Audits on Governance Practices: Evidence from the Nonprofit Sector
+Abstract: I evaluate the effect of financial statement audits on the governance practices of nonprofit organizations. Using a regression discontinuity design that exploits revenue-based exemption thresholds, I find that financial audits cause organizations to implement governance mechanisms, such as conflict ...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Nonprofit Board Network and Total Contributions
+Abstract: We utilize two theoretical frameworks to explore the impact of nonprofit board networks on the ability to raise funds. Consistent with the information sharing perspective, we find that having more network connections leads to higher contributions. However, consistent with the finite resource perspec...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Voluntary Adoption of Recommended Reporting Practices: Evidence from the Irish Nonprofit Sector
+Abstract: The UK Financial Reporting Council’s Charities Statement of Recommended Practice (SORP) provides a detailed nonprofit financial reporting framework for both the UK and Ireland. While adoption is mandatory in the UK, the Irish nonprofit sector currently operates under a voluntary financial reporting ...

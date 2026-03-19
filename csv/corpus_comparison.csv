@@ -1,0 +1,5 @@
+﻿Corpus Mode,N Papers,N Journals,% of Full Corpus,Notes
+full,2625,10,100.0%,Baseline
+MA_flag,245,10,9.3%,Primary result
+MA_journals,314,3,12.0%,MA specialist
+MA_strict,126,3,4.8%,Most focused
