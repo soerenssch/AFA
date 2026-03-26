@@ -1,4 +1,4 @@
 ﻿Run,Corpus,N Papers,min_cluster_size,Topics found,Noise papers,Noise %
-Primary (MA_journals),MA_journals,314,15,10,70,22.3%
+Primary (MA_journals),MA_journals,314,15,11,40,12.7%
 Stricter clustering (MA_journals),MA_journals,314,25,3,28,8.9%
 MA journals only,MA_journals,314,15,4,37,11.8%

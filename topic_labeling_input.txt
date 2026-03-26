@@ -1,0 +1,70 @@
+=== TOPIC 0 ===
+Top keywords: firms, ceos, compensation, internal, ceo, association, executive, board, governance, earnings
+
+
+=== TOPIC 1 ===
+Top keywords: performance, effort, information, team, managers, employees, feedback, effect, control, experiment
+
+
+=== TOPIC 2a ===
+Top keywords: management accountants, identity, role, skills, influence, effectiveness
+
+Representative Abstract 1 (probability: 1.000):
+Title: Skills, influence, and effectiveness of management accountants
+Abstract: The role of the management accountant (MA) has broadened to include acting as a strategic business partner. Our study examines whether MAs believe they need interpersonal skills (i.e., the ability to constructively challenge and question assumptions, numbers, and their meanings), conceptual skills (...
+
+Representative Abstract 2 (probability: 0.929):
+Title: Management accountants and strategic management accounting: The role of organizational culture and information systems
+Abstract: This study aims to contribute to the scant contingency theory literature on the determinants of strategic management accounting (SMA) practices and the role management accountants play. We develop and test a more complex theoretical model than in prior studies, to simultaneously examine the role of ...
+
+Representative Abstract 3 (probability: 0.738):
+Title: Identity work of management accountants in a merger: The construction of identity in liminal space
+Abstract: In response to calls for research on the ways in which management accountants make sense of their professional identities in organisational disruptions, this paper explores their identity work during a merger. Drawing on a case study of a merger between two Dutch banks, the paper examines their iden...
+
+
+=== TOPIC 2b ===
+Top keywords: digital, analytics, automation, dashboard, textual analysis, digitalization
+
+Representative Abstract 1 (probability: 1.000):
+Title: Digitalization of the finance function: Automation, analytics, and finance function effectiveness
+Abstract: Contemporary digital technologies provide new opportunities for organizing work within the finance function. In this study, we examine two digital technologies that are particularly relevant to the operation of finance functions – automation and analytics. We argue that variation in the use of these...
+
+Representative Abstract 2 (probability: 1.000):
+Title: Digital Anxiety in the Finance Function: Consequences and Mitigating Factors
+Abstract: This study investigates digital anxiety as a potential barrier to the digital transformation of the finance function. To embrace digital transformation, the finance function crucially relies on the engagement of its employees. However, due to this transformation, these employees face high uncertaint...
+
+Representative Abstract 3 (probability: 1.000):
+Title: Controllership effectiveness and digitalization: Shedding light on the importance of business analytics capabilities and the business partner role
+Abstract: Digital technologies and related capabilities, such as business analytics capabilities (BAC), are transforming firms and management control (MC). While the development of BAC and its underlying dimensions is currently a top priority for many MC departments, it remains unclear from the existing liter...
+
+
+=== TOPIC 3 ===
+Top keywords: pay, transparency, employees, dispersion, performance, workers, ai, bonus, effect, costs
+
+
+=== TOPIC 4 ===
+Top keywords: cost, stickiness, firms, supply, investment, cost behavior, supply chain, structure, behavior, competition
+
+
+=== TOPIC 5 ===
+Top keywords: risk, management, control, organizational, organisational, culture, management control, impact, systems, research
+
+
+=== TOPIC 6 ===
+Top keywords: sustainability, control, environmental, systems, innovation, management, use, control systems, study, performance
+
+
+=== TOPIC 7 ===
+Top keywords: budget, budgets, creativity, budgeting, diagnostic use, performance, individual, diagnostic, use, budgetary
+
+
+=== TOPIC 8 ===
+Top keywords: subjective, evaluation, evaluations, performance, procedural, subordinates, numerical, research, turnover, performance evaluation
+
+
+=== TOPIC 9 ===
+Top keywords: trust, control, employees, partners, management control, controls, experience, justification, control systems, management
+
+
+=== TOPIC 10 ===
+Top keywords: allocations, optimal, compensation, decisionmakers, choices, performance, cost, information, exploration, manager
