@@ -10,25 +10,30 @@ A reproducible pipeline for systematic literature review and topic modelling of 
 .
 ├── 01_Data_pre-processing.ipynb      # Step 1–9: Load, clean, filter, and export corpora
 ├── 02_Topic_modelling.ipynb          # Step 10–17: Embeddings, BERTopic, visualisations
-├── 03_AI_Labelling.ipynb             # Step 18+: AI-assisted topic labelling (in progress)
+├── 03_AI_Labelling.ipynb             # Step 18+: AI-assisted topic labelling & analysis
 │
 ├── Scopus_Screening_results.xlsx     # Raw Scopus export (input)
 │
 ├── papers_preprocessed.csv           # All 2,625 articles after cleaning
 ├── papers_MA_journals.csv            # 314 articles from MA-specialist journals
-├── papers_with_topics.csv            # Topic assignments (initial BERTopic output)
-├── papers_with_topics_revised.csv    # Topic assignments after manual splits
+├── papers_with_topics.csv            # Topic assignments (BERTopic output, integer IDs)
+├── papers_with_labels.csv            # Topic assignments with AI-generated labels & methodology
 ├── sensitivity_check.csv             # Grid-search results across UMAP/HDBSCAN params
+├── topic_journal_crosstab.csv        # 11×3 topic × journal contingency table
+├── topic_methodology_crosstab.csv    # Topic × methodology breakdown
 │
 ├── embeddings.npy                    # Cached sentence embeddings (384-d, MiniLM-L6-v2)
 ├── embeddings_mode.txt               # Records which corpus mode the embeddings were built on
 ├── topic_labeling_input.txt          # Structured per-topic summaries for LLM labelling
 │
-├── fig_topic_barchart.png/.html      # Top 20 topics by paper count
+├── fig_topic_barchart.png/.html      # Top topics by paper count
 ├── fig_topic_keywords.png            # Per-topic c-TF-IDF keyword heatmap
 ├── fig_topic_map.png/.html           # 2-D UMAP document map coloured by topic
 ├── fig_topics_over_time.png/.html    # Topic trend lines (2021–2026)
-└── fig_topic_similarity.png          # Topic similarity / distance matrix
+├── fig_topic_similarity.png          # Topic similarity / distance matrix
+├── fig_journal_topic.png             # Stacked bar: topic distribution by journal
+├── fig_journal_heatmap.png           # Heatmap: topic × journal proportions
+└── fig_methodology_topic.png         # Methodology breakdown by topic
 ```
 
 ---
@@ -76,7 +81,7 @@ Applies BERTopic to the `MA_journals` corpus (314 articles) to identify latent r
 | 12b | Sensitivity analysis over 12 parameter combinations (n_neighbors × min_samples × cluster method) |
 | 12c | Select final hyperparameters from grid results |
 | 12d | Final model fit on full corpus |
-| 13 | Topic review: manual splits of ambiguous topics; noise inspection (40 papers, 12.7%) |
+| 13 | Topic review: noise inspection (40 papers, 12.7%); Topics 0 and 2 flagged as broad clusters |
 | 14 | Export publication-quality visualisations |
 | 16 | Generate `topic_labeling_input.txt` for LLM-based labelling |
 | 17 | Final summary |
@@ -88,7 +93,7 @@ Applies BERTopic to the `MA_journals` corpus (314 articles) to identify latent r
 | Embedding model | `all-MiniLM-L6-v2` (384-d) |
 | Dimensionality reduction | UMAP |
 | Clustering | HDBSCAN (min_cluster_size=8, min_samples=1) |
-| Final topics | 12 (after manual splits of Topics 0 and 2) |
+| Final topics | 11 (original BERTopic output — no manual splits applied) |
 | Noise papers | 40 (12.7%) |
 
 **Key packages:** `bertopic`, `sentence_transformers`, `umap`, `hdbscan`, `sklearn`, `plotly`, `numpy`, `pandas`
@@ -97,7 +102,19 @@ Applies BERTopic to the `MA_journals` corpus (314 articles) to identify latent r
 
 ### `03_AI_Labelling.ipynb`
 
-Planned notebook for AI-assisted topic labelling using `topic_labeling_input.txt` as structured input to an LLM. Generates human-readable labels for each BERTopic cluster. *(In progress)*
+AI-assisted topic labelling and quantitative analysis of the 11 BERTopic clusters.
+
+| Step | Description |
+|------|-------------|
+| 18 | Load `papers_with_topics.csv`; apply keyword-based methodology classifier (Experimental / Analytical / Qualitative / Survey-Field / Archival / Other-Mixed) |
+| 19 | Structured per-topic summaries from `topic_labeling_input.txt` as LLM input |
+| 20 | Assign human-readable `AI_LABELS` to all 11 topics (integer IDs 0–10); export `papers_with_labels.csv` |
+| 21 | Journal × topic contingency table; χ²(20) = 66.1, Cramér's V = 0.284; export `topic_journal_crosstab.csv` |
+| 22 | Methodology × topic breakdown; export `topic_methodology_crosstab.csv` |
+| 23 | Visualisations: stacked bar (journal × topic), heatmap, methodology profile per topic, topics-over-time |
+| 24 | Final results summary |
+
+**Key packages:** `pandas`, `matplotlib`, `seaborn`, `numpy`, `math`
 
 ---
 
@@ -117,14 +134,17 @@ Scopus_Screening_results.xlsx
         02_Topic_modelling.ipynb
                 │
                 ├── embeddings.npy
-                ├── papers_with_topics_revised.csv
+                ├── papers_with_topics.csv
                 ├── topic_labeling_input.txt
-                └── fig_*.png / fig_*.html
+                └── fig_topic_*.png / fig_topic_*.html
                         │
                         ▼
                 03_AI_Labelling.ipynb
                         │
-                        └── (topic labels — in progress)
+                        ├── papers_with_labels.csv
+                        ├── topic_journal_crosstab.csv
+                        ├── topic_methodology_crosstab.csv
+                        └── fig_journal_*.png / fig_methodology_topic.png
 ```
 
 ---
