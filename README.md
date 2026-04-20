@@ -93,7 +93,7 @@ Applies BERTopic to the `MA_journals` corpus (314 articles) to identify latent r
 | Embedding model | `all-MiniLM-L6-v2` (384-d) |
 | Dimensionality reduction | UMAP |
 | Clustering | HDBSCAN (min_cluster_size=8, min_samples=1) |
-| Final topics | 11 (original BERTopic output — no manual splits applied) |
+| Final topics | 11 (original BERTopic output) |
 | Noise papers | 40 (12.7%) |
 
 **Key packages:** `bertopic`, `sentence_transformers`, `umap`, `hdbscan`, `sklearn`, `plotly`, `numpy`, `pandas`
@@ -109,7 +109,7 @@ AI-assisted topic labelling and quantitative analysis of the 11 BERTopic cluster
 | 18 | Load `papers_with_topics.csv`; apply keyword-based methodology classifier (Experimental / Analytical / Qualitative / Survey-Field / Archival / Other-Mixed) |
 | 19 | Structured per-topic summaries from `topic_labeling_input.txt` as LLM input |
 | 20 | Assign human-readable `AI_LABELS` to all 11 topics (integer IDs 0–10); export `papers_with_labels.csv` |
-| 21 | Journal × topic contingency table; χ²(20) = 66.1, Cramér's V = 0.284; export `topic_journal_crosstab.csv` |
+| 21 | Journal × topic contingency table; χ²(20) = 66.14, Cramér's V = 0.347; export `topic_journal_crosstab.csv` |
 | 22 | Methodology × topic breakdown; export `topic_methodology_crosstab.csv` |
 | 23 | Visualisations: stacked bar (journal × topic), heatmap, methodology profile per topic, topics-over-time |
 | 24 | Final results summary |
